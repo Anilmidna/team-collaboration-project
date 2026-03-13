@@ -1,5 +1,6 @@
 def multiply(a, b):
-   result = a * b
+    print("Multiplying numbers...")
+    result = a * b
     return result
 
  
